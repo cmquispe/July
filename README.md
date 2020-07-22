@@ -1,2 +1,2 @@
-# July_2020
+# July
 Breast cancer prediction
